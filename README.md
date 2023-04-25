@@ -1,6 +1,6 @@
-# Jest Basics Testing React Application
+# Getting Started with Create React App
 
-Testing with React using Jest.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
